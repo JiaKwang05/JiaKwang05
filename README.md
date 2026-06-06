@@ -9,12 +9,10 @@ I'm a rising third-year **Computer Science Student majoring in Artificial Intell
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
@@ -35,7 +33,6 @@ I'm a rising third-year **Computer Science Student majoring in Artificial Intell
 
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/jiakwang](https://www.linkedin.com/in/jiakwang)
-* **GitHub:** [github.com/JiaKwang05](https://github.com/JiaKwang05)
 * **Email:** [tjkwang2005@gmail.com](mailto:tjkwang2005@gmail.com) | [23110876@siswa.um.edu.my](mailto:23110876@siswa.um.edu.my)
 
 <!--
